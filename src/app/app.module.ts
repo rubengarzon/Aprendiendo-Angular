@@ -8,7 +8,7 @@ import { EmpleadoComponent } from './empleado/empleado.component';
 @NgModule({
   declarations: [
     AppComponent,EmpleadosComponent, EmpleadoComponent
-  ],
+   ],
   imports: [
     BrowserModule
   ],
