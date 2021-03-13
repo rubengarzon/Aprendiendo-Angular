@@ -1,27 +1,38 @@
-# MiprimeraApp
+# Mi primera app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+El proyecto trata de abarcar todos los conceptos de angular para mostrar el aprendizaje del framework en cuestión.
 
-## Development server
+### Pre-requisitos 📋
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Tener el framework Angular instalado
 
-## Code scaffolding
+https://angular.io/guide/setup-local
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Despliegue 📦
 
-## Build
+ng serve
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Construido con 🛠️
 
-## Running unit tests
+* [Angular](https://angular.io/docs) - El framework web usado
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Wiki 📖
 
-## Running end-to-end tests
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Autor ✒️
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* **Rubén Garzón** - *Todo el trabajo* - [rubengarzon](https://github.com/rubengarzon)
+
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+---
+⌨️ con ❤️ por [rubengarzon](https://github.com/rubengarzon) 😊
