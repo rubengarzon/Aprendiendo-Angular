@@ -27,7 +27,12 @@ export class EmpleadoComponent implements OnInit {
 
   } */
 
+  habilitacionCuadro = true;
+  usuRegistrado = false;
 
+  getRegistroUsuario(){
+    this.usuRegistrado = true;
+  }
 
   constructor() { }
 
